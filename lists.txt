@@ -2,3 +2,5 @@ FRUIT and VEGETABLES
 Bananas
 Oranges
 Strawberry
+
+DAIRY
